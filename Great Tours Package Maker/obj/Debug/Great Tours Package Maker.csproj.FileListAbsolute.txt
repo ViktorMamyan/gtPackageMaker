@@ -1,0 +1,9 @@
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\bin\Debug\Great Tours Package Maker.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\bin\Debug\Great Tours Package Maker.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great_Tours_Package_Maker.Properties.Resources.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great Tours Package Maker.csproj.GenerateResource.Cache
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great Tours Package Maker.exe
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great Tours Package Maker.pdb
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great_Tours_Package_Maker.XMLLoaderForm.resources
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great Tours Package Maker.exe.licenses
+C:\Users\Vitya\Documents\Visual Studio 2012\Projects\Great Tours Package Maker\Great Tours Package Maker\obj\Debug\Great Tours Package Maker.csprojResolveAssemblyReference.cache
